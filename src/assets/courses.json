@@ -1,3 +1,5 @@
 [
-  { "_id": "1", "name": "Angular", "category": "front-end"}
+  { "_id": "1", "name": "Angular", "category": "front-end"},
+  { "_id": "2", "name": "Fullstack Java and Angular ", "category": "front-end"},
+  { "_id": "2", "name": "BOOTCAMP NODEJS ", "category": "Back-end"}
 ]
