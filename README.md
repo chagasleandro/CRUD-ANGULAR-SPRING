@@ -1,5 +1,7 @@
 # CrudAngular
-
+<img src="./src/img/img1.png" alt="img">
+<img src="./src/img/img2.png" alt="img">
+<img src="./src/img/img3.png" alt="img">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
