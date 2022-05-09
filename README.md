@@ -1,9 +1,21 @@
 # CrudAngular
+<p>Desenvolvimento com Angular (Node.js, Angular CLI, Visual Studio Code), e criação do projeto Angular com Angular CLI.</p>
 <h1>Abaixo segue as imagens do projeto</h1>
 <img src="./src/img/img1.png" alt="img">
 <img src="./src/img/img2.png" alt="img">
 <img src="./src/img/img3.png" alt="img">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+
+## Links citados do projeto
+<p>
+  ▸ Node.js: https://nodejs.org/pt-br/</p>
+<p>
+  ▸ Visual Studio Code: https://code.visualstudio.com/</p>
+<p>
+  ▸ Pacote extensões Angular: https://marketplace.visualstudio.com/...</p>
+<p>
+  ▸ Documentação Angular: https://angular.io</p>
+
 
 ## Development server
 
